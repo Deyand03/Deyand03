@@ -8,9 +8,9 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
  <div>
-    <img src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="400"/>
+    <img src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="350"/>
   </div>
   <div style="flex: 1; margin-left: 10px">
     
