@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/img/github-header-image.png"  />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<img align="left" height="150" src="/img/kurisu-steinsgate.gif"  />
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
