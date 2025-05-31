@@ -7,13 +7,8 @@
 </h2>
 
 ---
-
-<div style="display: flex; align-items: center;">
- <div>
-    <img src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="350"/>
-  </div>
-  <div style="flex: 1; margin-left: 10px">
-    
+<img align="right" src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="350"/>
+  
 ### 🧠 About Me
 - 🎓 I'm a university student majoring in Information Systems
 - 🚀 Passionate about **Game Dev, IoT, Web Dev, Cybersecurity, and Networking**
@@ -21,9 +16,6 @@
 - 🎮 Currently making a 2D magic-based game in **Godot Engine**
 - 🛠️ Also learning **Laravel**, **React/Next.js**, **Machine Learning**, **Python** and **C# with WinForms**
 
-
-  </div>
-</div>
 
 ---
 
