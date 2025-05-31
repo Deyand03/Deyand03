@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/img/github-header-image.png"  />
+  <img src="/img/github-header-image (3).png"  />
 </div>
 
 ###
@@ -18,11 +18,11 @@
 
 ###
 
-<img align="left" style="margin-right: 8px" height="150" src="/img/kurisu-steinsgate.gif"  />
+<img align="left" style="margin-right: 8px" height="200" src="/img/kurisu-steinsgate.gif"  />
 
 ###
 
-<p align="left">- 🎓 I'm a university student majoring in Information Systems<br>- 🚀 Passionate about Game Dev, IoT, Web Dev, Cybersecurity, and Networking<br>- 🧪 Love exploring new knowledge, time travel theories, and the universe<br>- 🎮 Currently making a 2D magic-based game in Godot Engine<br>- 🛠️ Also learning Laravel, React/Next.js, Machine Learning, Python and C#</p>
+<p align="center">- 🎓 I'm a university student majoring in Information Systems<br>- 🚀 Passionate about Game Dev, IoT, Web Dev, Cybersecurity, and Networking<br>- 🧪 Love exploring new knowledge, time travel theories, and the universe<br>- 🎮 Currently making a 2D magic-based game in Godot Engine<br>- 🛠️ Also learning Laravel, React/Next.js, Machine Learning, Python and C#</p>
 
 ###
 
