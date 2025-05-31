@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Defry Yandy (a.k.a. Deyand03)</h1>
-<h3 align="center">💻 Student | 🌌 Curious Mind | 🧪 WIBUU </h3>
+<h3 align="center">💻 Student | 🌌 Curious Mind | 🧪 WIBUU 
 
-![https://github.com/deyand03](https://komarev.com/ghpvc/?username=deyand03&label=Pengunjung&color=0e75b6&style=flat)
+</h3>
+<h2 align="center">
+<img href="https://github.com/deyand03" src="https://komarev.com/ghpvc/?username=deyand03&label=Pengunjung&color=0e75b6&style=flat">
+</h2>
 <p align="center">
   <img src="img/kurisu-steinsgate.gif" width="400" alt="Makise Kurisu">
 </p>
