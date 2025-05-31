@@ -7,7 +7,6 @@
 
 ---
 
-<br><br><br>
 <img align="right" src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="300"/>
   
 ### 🧠 About Me
@@ -16,7 +15,7 @@
 - 🧪 Love exploring **new knowledge, time travel theories, and the universe**
 - 🎮 Currently making a 2D magic-based game in **Godot Engine**
 - 🛠️ Also learning **Laravel**, **React/Next.js**, **Machine Learning**, **Python** and **C# with WinForms**
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ---
 
