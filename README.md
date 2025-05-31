@@ -5,18 +5,25 @@
 <h2 align="center">
 <img href="https://github.com/deyand03" src="https://komarev.com/ghpvc/?username=deyand03&label=Pengunjung&color=0e75b6&style=flat">
 </h2>
-<p align="center">
-  <img src="img/kurisu-steinsgate.gif" width="400" alt="Makise Kurisu">
-</p>
 
 ---
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+ <div>
+    <img src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="400"/>
+  </div>
+  <div style="flex: 1; margin-left: 10px">
+    
 ### 🧠 About Me
 - 🎓 I'm a university student majoring in Information Systems
 - 🚀 Passionate about **Game Dev, IoT, Web Dev, Cybersecurity, and Networking**
 - 🧪 Love exploring **new knowledge, time travel theories, and the universe**
 - 🎮 Currently making a 2D magic-based game in **Godot Engine**
 - 🛠️ Also learning **Laravel**, **React/Next.js**, **Machine Learning**, **Python** and **C# with WinForms**
+
+
+  </div>
+</div>
 
 ---
 
@@ -69,8 +76,8 @@
 ---
 
 ### 📝 Latest Projects
-| Project | Description | Tech |
-|--------|-------------|------|
+| Project    | Description         | Tech                  |
+| ---------- | ------------------- | --------------------- |
 | Portofolio | My First Portofolio | HTML, CSS, Javascript |
 
 ---
