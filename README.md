@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Defry Yandy (a.k.a. Deyand03)</h1>
-<h3 align="center">💻 Student | 🌌 Curious Mind | 🧪 WIBUU 
-
+<h3 align="center">💻 Student | 🌌 Curious Mind | 🧪 WIBUU
 </h3>
 <h2 align="center">
 <img href="https://github.com/deyand03" src="https://komarev.com/ghpvc/?username=deyand03&label=Pengunjung&color=0e75b6&style=flat">
 </h2>
 
----
-<img align="right" src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="350"/>
+<img align="right" src="img/kurisu-steinsgate.gif" alt="Makise Kurisu" width="250"/>
   
-### 🧠 About Me
+## 🧠 About Me
 - 🎓 I'm a university student majoring in Information Systems
 - 🚀 Passionate about **Game Dev, IoT, Web Dev, Cybersecurity, and Networking**
 - 🧪 Love exploring **new knowledge, time travel theories, and the universe**
