@@ -1,26 +1,94 @@
-<h3 align="center">Want to become Fullstack Dev</h3>
+<h1 align="center">Hi 👋, I'm Defry Yandy (a.k.a. Deyand03)</h1>
+<h3 align="center">💻 Student | 🌌 Curious Mind | 🧪 WIBUU </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deyand03&label=Profile%20views&color=0e75b6&style=flat" alt="deyand03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyand03" alt="deyand03" /></a> </p>
-
-- 🔭 I’m currently working on **Intern Website**
-
-- 🌱 I’m currently learning **Laravel, React JS**
-
-- 📫 How to reach me **defryyandy7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/defry03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="defry03" height="30" width="40" /></a>
-<a href="https://instagram.com/deyand.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deyand.__" height="30" width="40" /></a>
+![https://github.com/deyand03](https://komarev.com/ghpvc/?username=deyand03&label=Pengunjung&color=0e75b6&style=flat)
+<p align="center">
+  <img src="img/kurisu-steinsgate.gif" width="400" alt="Makise Kurisu">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyand03&show_icons=true&theme=dark&locale=en&layout=compact" alt="deyand03" /></p>
+### 🧠 About Me
+- 🎓 I'm a university student majoring in Information Systems
+- 🚀 Passionate about **Game Dev, IoT, Web Dev, Cybersecurity, and Networking**
+- 🧪 Love exploring **new knowledge, time travel theories, and the universe**
+- 🎮 Currently making a 2D magic-based game in **Godot Engine**
+- 🛠️ Also learning **Laravel**, **React/Next.js**, **Machine Learning**, **Python** and **C# with WinForms**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deyand03&show_icons=true&locale=en" alt="deyand03" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deyand03&" alt="deyand03" /></p>
+### 💖 My Waifu
+> "Theories are nothing more than words. Accepting them means admitting defeat to the unknown." – **Makise Kurisu**
+
+<p align="center">
+  <img src="/img/amadeus-kurisu (1).gif">
+</p>
+
+```markdown
+📌 Favorite Waifu: Makise Kurisu 🧠
+🔭 From: Steins;Gate
+🧃 Why? She's brilliant, tsundere, and totally waifu material
+```
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyand03&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyand03&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  
+</p>
+
+
+---
+
+### 📝 Latest Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| Portofolio | My First Portofolio | HTML, CSS, Javascript |
+
+---
+
+### 🍥 Otaku Section
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1e/36/33/1e36332f23a7437385f287d39316fdbe.gif" width="200" alt="Otaku vibe">
+</p>
+
+- ✨ Favorite Anime: 
+**Steins;Gate**, **Re:Zero**, **Violet Evergarden**, **Attack on Titan**, **Jujutsu Kaisen**
+- 🎧 Favorite OST: 
+*Last Game - Steins;Gate 0*, *Stay Alive - Re:Zero*
+- 🎮 Fave Games:
+**Persona 5**, **Genshin Impact**, **Honkai: Star Rail**
+- 🎨 Hobbies: 
+Drawing, Playing Guitar, Watch Anime
+
+
+---
+
+<p align="center">
+  <i>"Live with curiosity, build with passion, love with courage."</i>
+</p>
