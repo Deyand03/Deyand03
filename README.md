@@ -6,10 +6,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Deyand03.Deyand03&left_color=0f172a&right_color=6366f1&left_text=Visitors" />
 </div>
 
-<h1 align="center">El Psy Kongroo! I'm Defry 👋</h1>
+<h1 align="center">I'm Defry 👋</h1>
 
 <div align="center">
-  <h3>Information Systems Student | Mad Scientist in Training 🧪</h3>
+  <h3>Information Systems Student</h3>
 </div>
 
 <br/>
