@@ -20,12 +20,12 @@
       <td valign="center" width="60%">
         <h2>👨‍💻 About Me</h2>
         <p>
-           I'm an <b>Information Systems Student</b> who loves navigating different world lines of technology. Currently focused on building robust backends and exploring mobile development.
+           I'm an <b>Information Systems Student</b> who loves navigating different world lines of technology. Currently focused on building Assistant AI Companion.
         </p>
         <ul>
             <li>🔭 <b>Working on:</b> Built AI Agent Companion.</li>
-            <li>🌱 <b>Learning:</b> <b style="color:#38bdf8">Flutter</b>, <b>Supabase</b>, <b>React.js</b></li>
-            <li>🚀 <b>Stack:</b> Laravel 12 (PHP) & Python.</li>
+            <li>🌱 <b>Learning:</b> <b style="color:#38bdf8">AI Agent</b>, <b>Electron Js</b>, <b>langchain</b></li>
+            <li>🚀 <b>Stack:</b> JavaScript, Python, Php</li>
             <li>🕰️ <b>Obsession:</b> Time Travel theories & <i>Steins;Gate</i>.</li>
             <li>⚡ <b>Fun fact:</b> I code better with <a href="https://open.spotify.com/user/fla3f371cctj1kzvo78xj3kdl">music</a> on loop.</li>
         </ul>
